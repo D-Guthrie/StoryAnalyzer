@@ -21,8 +21,11 @@ public class FileHandler {
 		try {
 			String tempLine;
 			in = new BufferedReader(new FileReader(fileName));
+			
+			// TODO: Redo this section to grab a sentence (using regex?) instead of just a line
 			while((tempLine = in.readLine()) != null) {
 				System.out.println("The current sentance is: " + tempLine);
+							
 				String[] sentanceWords = tempLine.split(" ");
 				// System.out.println(sentanceWords[1]);
 			}				
