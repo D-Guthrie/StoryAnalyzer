@@ -1,2 +1,2 @@
-# Story Anaalyzer
+# Story Analyzer
 # 
