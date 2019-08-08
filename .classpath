@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/media/david/Storage/Backup/StanfordCoreNLP/stanford-english-kbp-corenlp-2018-10-05-models.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
